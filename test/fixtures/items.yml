@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  code: 1
+  name: MyText
+  provider: MyText
+  amount: 1
+  purchase_price: 1.5
+  selling_price: 1.5
+  final_price: 1.5
+  formula: MyText
+
+two:
+  user_id: 1
+  code: 1
+  name: MyText
+  provider: MyText
+  amount: 1
+  purchase_price: 1.5
+  selling_price: 1.5
+  final_price: 1.5
+  formula: MyText
